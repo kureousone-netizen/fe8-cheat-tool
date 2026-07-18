@@ -1,0 +1,10 @@
+build/
+dist/
+*.spec
+*.sqlite3
+config.ini
+nointro.dat
+nointro.sqlite3
+library.sqlite3
+__pycache__/
+*.pyc
