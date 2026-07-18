@@ -8,3 +8,4 @@ nointro.sqlite3
 library.sqlite3
 __pycache__/
 *.pyc
+*.exe
