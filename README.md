@@ -20,7 +20,7 @@ A tool for bulk-editing unit stats, weapon levels, and items in **Fire Emblem: T
 
 ## Usage
 
-1. Run `fe8_cheat_writer.exe`
+1. Run `fe8_cheat_writer.py` or `fe8_cheat_writer.exe`
 2. Follow the prompts to choose a unit, and the stat, weapon level, or item you want to set
 3. The change applies immediately in-game — no need to open the cheats menu
 
